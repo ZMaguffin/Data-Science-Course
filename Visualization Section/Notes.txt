@@ -1,0 +1,4 @@
+-- Visualization --
+	.CSV files have to be connected as a text file not Excel
+		Dimensions are categorical data (Qualitative)
+		Measures are Numerical data (Quantitative)
