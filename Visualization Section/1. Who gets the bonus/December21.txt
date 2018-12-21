@@ -1,0 +1,11 @@
+12/21/18
+	Goal: Help company see who deserves a bonus from each region based on total sales
+
+	Part 1
+		Using the sample dataset, created first table in tableau
+		created a calcuated field - ([unit]*[unit price]) 
+	Part 2
+		Changed data to be shown in currency by the thousand
+		Colored Sales Reps based on Region
+		Labled the axis for ease of understanding
+		Formatted the bar's so total sales price is above.
